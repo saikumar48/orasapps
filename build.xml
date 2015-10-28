@@ -1,5 +1,5 @@
 
-<project name="Service" default="war" basedir=".">
+<project name="Telebanking" default="war" basedir=".">
 
 
 	<!-- Define the properties used by the build -->
